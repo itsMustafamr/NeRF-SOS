@@ -65,11 +65,11 @@ We provide a data sample for scene ``Flower'' (with multi-view images, camera po
 
 If you wanna see the rendered masks using the self-supervised trained model, run:
 ```
-bash scrits/eval.sh
+bash scripts/eval.sh
 ```
 If you wanna see the rendered masks (video format) using the self-supervised trained model, run:
 ```
-bash scrits/eval_video.sh
+bash scripts/eval_video.sh
 ```
 
 ## Training
